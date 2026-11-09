@@ -22,4 +22,4 @@ PHP · Ruby on Rails · JavaScript · HTML · CSS · Tailwind CSS · Hotwire (Tu
 
 ### Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/jasonplatts) · jason@jasonplatts.com
+[LinkedIn](https://www.linkedin.com/in/jasonplatts)
