@@ -1,6 +1,6 @@
 # Hi, I'm Jason Platts
 
-I'm a web developer in the Philadelphia area (Collegeville, PA). I like building practical tools that make work easier for the people who use them.
+I'm a web developer in the Philadelphia area. I like building practical tools that make work easier for the people who use them.
 
 ### What I've built
 
