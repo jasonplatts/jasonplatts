@@ -16,6 +16,10 @@ I'm a web developer in the Philadelphia area (Collegeville, PA). I like building
   I maintained these from 2020 to 2023, with pull requests from other developers.
 - **CodeEdit**: helped plan and manage this open source Mac code editor (Swift).
 
+### Currently
+
+Building a personal software project, working with AI coding tools. *Private for now.*
+
 ### Tools I use
 
 PHP · Ruby on Rails · JavaScript · HTML · CSS · Tailwind CSS · Hotwire (Turbo, Stimulus) · Vue.js (basic) · Bootstrap · MySQL · PostgreSQL · Git · Minitest · RSpec
